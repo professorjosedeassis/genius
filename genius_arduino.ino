@@ -47,6 +47,7 @@ void loop() {
 
 void proximaRodada() {
   randomSeed(analogRead(A0));
+  randomSeed(analogRead(A0));
   int sorteio = random(4);
   sequencia[rodada] = sorteio;
   rodada = rodada + 1;
