@@ -31,6 +31,7 @@ void setup() {
 
 void loop() {
   proximaRodada();
+  minhaAlteração();
   reproduzirSequencia();
   aguardarJogador();
   // estrutura usada para reiniciar todas as variáveis (novo jogo)
