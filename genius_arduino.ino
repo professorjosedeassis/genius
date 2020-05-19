@@ -4,6 +4,11 @@
    https://www.youtube.com/playlist?list=PLbEOwbQR9lqzta3bQTkwDWtkne6I8LOBg
 */
 
+/**
+   Aluno da aulaEAD Luciano A. Silva
+   Teste para aula de Git e GitHub
+*/
+
 /***************** variáveis globais *******************/
 
 int sequencia[32] = {};
