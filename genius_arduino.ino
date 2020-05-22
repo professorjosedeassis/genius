@@ -4,7 +4,7 @@
    https://www.youtube.com/playlist?list=PLbEOwbQR9lqzta3bQTkwDWtkne6I8LOBg
 */
 
-/***************** variáveis globais *******************/
+/**************f*** variáveis globais *******************/
 
 int sequencia[32] = {};
 int botoes[4] = {8, 9, 10, 11};
