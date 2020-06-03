@@ -64,7 +64,7 @@ void reproduzirSequencia() {
   }
 }
 
-void aguardarJogador() {
+void aguardarJogador() {      //poderia haver um timer para que o jogador fizesse a jogada
   int botao_pressionado = 0;
   for (int i = 0; i < rodada; i++) {
     bool jogada_efetuada = false;
