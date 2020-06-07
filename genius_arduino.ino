@@ -51,6 +51,7 @@ void proximaRodada() {
   sequencia[rodada] = sorteio;
   rodada = rodada + 1;
   //Serial.print(sorteio);
+   //comentario novo
 }
 
 void reproduzirSequencia() {
