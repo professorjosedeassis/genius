@@ -4,6 +4,8 @@
    https://www.youtube.com/playlist?list=PLbEOwbQR9lqzta3bQTkwDWtkne6I8LOBg
 */
 
+// Testando o Git HUB
+
 /***************** variáveis globais *******************/
 
 int sequencia[32] = {};
