@@ -45,6 +45,8 @@ void loop() {
 
 /************************* Funções **************************/
 
+// jefferson29rodrigues fez seu curso e passou por aqui professor José de Assis Obrigado!!!
+
 void proximaRodada() {
   randomSeed(analogRead(A0));
   int sorteio = random(4);
