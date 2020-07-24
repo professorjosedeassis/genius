@@ -4,6 +4,8 @@
    https://www.youtube.com/playlist?list=PLbEOwbQR9lqzta3bQTkwDWtkne6I8LOBg
 */
 
+// Testando o Git HUB
+
 /***************** variáveis globais *******************/
 
 int sequencia[32] = {};
@@ -46,6 +48,7 @@ void loop() {
 /************************* Funções **************************/
 
 void proximaRodada() {
+   //Teste Pull Request - Aluno Projeto José de Assis
   randomSeed(analogRead(A0));
   int sorteio = random(4);
   sequencia[rodada] = sorteio;
