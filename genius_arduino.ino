@@ -30,6 +30,7 @@ void setup() {
 }
 
 void loop() {
+   RandomSeed(analogRead(AB));
   proximaRodada();
   reproduzirSequencia();
   aguardarJogador();
