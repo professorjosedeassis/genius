@@ -30,7 +30,7 @@ void setup() {
 }
 
 void loop() {
-  proximaRodada();
+  nextRound();
   reproduzirSequencia();
   aguardarJogador();
   // estrutura usada para reiniciar todas as variáveis (novo jogo)
@@ -45,7 +45,7 @@ void loop() {
 
 /************************* Funções **************************/
 
-void proximaRodada() {
+void nextRound() {
   randomSeed(analogRead(A0));
   int sorteio = random(4);
   sequencia[rodada] = sorteio;
