@@ -2,7 +2,7 @@
    Jogo de memória (GENIUS)
    @author Professor José de Assis
    @version 2.0
-   @link https://www.youtube.com/playlist?list=PLbEOwbQR9lqwq5E0DW3CvjfmF4FoIAW1f
+   @link https://roboticapratica.com.br/
 */
 
 /*
