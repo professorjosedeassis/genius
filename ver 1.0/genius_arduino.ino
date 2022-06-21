@@ -9,7 +9,7 @@
 int sequencia[32] = {};
 int botoes[4] = {8, 9, 10, 11};
 int leds[4] = {2, 3, 4, 5};
-int tons[4] = {262, 294, 330, 349};
+int tons[4] = {262, 294, 330, 350};
 int rodada = 0;
 int passo = 0;
 bool game_over = false;
