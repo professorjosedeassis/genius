@@ -46,6 +46,7 @@ void loop() {
 /************************* Funções **************************/
 
 void proximaRodada() {
+   
   randomSeed(analogRead(A0));
   int sorteio = random(4);
   sequencia[rodada] = sorteio;
