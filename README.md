@@ -5,11 +5,11 @@ GENIUS (Simon game) é um jogo de memória que se tornou popular na década de 8
 ### Autor
 Professor José de Assis
 ### Demonstração do projeto
-[![genius arduino](https://img.youtube.com/vi/gYgGgox5Q4o/0.jpg)](https://www.youtube.com/playlist?list=PLbEOwbQR9lqwq5E0DW3CvjfmF4FoIAW1f "Assistir no YouTube")
+[![genius arduino](https://img.youtube.com/vi/gYgGgox5Q4o/0.jpg)](https://youtu.be/gYgGgox5Q4o?si=lEu-qmUlX2n5_YAi "Assistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/gYgGgox5Q4o?style=social)
-### Playlist
-[Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqwq5E0DW3CvjfmF4FoIAW1f)
+### Iniciar tutorial:
+[Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqwq5E0DW3CvjfmF4FoIAW1f)
 
 ## Como apoiar os tutoriais e projetos?
 ### Você pode:
