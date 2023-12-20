@@ -65,6 +65,7 @@ void reproduzirSequencia() {
 }
 
 void aguardarJogador() {
+  RandomSeed(analogRead(A0));
   int botao_pressionado = 0;
   for (int i = 0; i < rodada; i++) {
     bool jogada_efetuada = false;
