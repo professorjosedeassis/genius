@@ -4,6 +4,7 @@
    https://www.youtube.com/playlist?list=PLbEOwbQR9lqzta3bQTkwDWtkne6I8LOBg
 */
 
+Editando arquivo de repositorio adquirido via Fork
 /***************** variáveis globais *******************/
 
 int sequencia[32] = {};
