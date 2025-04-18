@@ -50,6 +50,7 @@ void proximaRodada() {
   int sorteio = random(4);
   sequencia[rodada] = sorteio;
   rodada = rodada + 1;
+  //Sorteio exemplo;
   //Serial.print(sorteio);
 }
 
