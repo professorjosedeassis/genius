@@ -1,6 +1,7 @@
 /**
    Arduino GENIUS
    @author Professor José de Assis
+   e agradecimentos por fornecer tal conteúdo.
    https://www.youtube.com/playlist?list=PLbEOwbQR9lqzta3bQTkwDWtkne6I8LOBg
 */
 
