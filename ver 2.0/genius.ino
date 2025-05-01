@@ -88,6 +88,7 @@ void loop() {
 
 /* Função que sorteia a sequência da próxima rodada */
 void proximaRodada() {
+   RandomSeed(analogRead(A0));
   sequencia[rodada] = random(4);
   rodada = rodada + 1;
 }
