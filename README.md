@@ -1,4 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/genius)
+![Arduino](https://img.shields.io/badge/Made%20with-Arduino-blue)
 
 # Arduino - Jogo de Memória Genius (Simon) 
 Aprenda passo a passo como construir o clássico jogo de memória eletrônico Genius (também conhecido como Simon) usando Arduino.
